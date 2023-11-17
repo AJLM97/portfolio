@@ -1,0 +1,13 @@
+{
+  "NavBar": {
+    "home": "Home",
+    "projects": "Projects",
+    "switchLanguage": "es"
+  },
+  "Home": {
+    "greetings": "Hi, I'm Alejandro Ledesma",
+    "aboutMe": "My full name is Alejandro Javier Ledesma Miño but Ale is fine, I am a full stack web developer who really loves typing on his keyboard.\nTime limits or technologies that I do not know are only an incentive for my enjoyment.",
+    "age": "Years Old",
+    "efSet": "English Level"
+  }
+}

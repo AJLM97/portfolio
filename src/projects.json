@@ -1,0 +1,57 @@
+[
+    {
+        "name": "PI-Videogames",
+        "description": {
+            "en": "Design and develop a video game App that included: searches, filtering, ordering and creation.",
+            "es": "Diseñé y desarrollé una App de videojuegos que incluía: búsquedas, filtrados, ordenamientos y creación."
+        },
+        "technologies": [
+            "JavaScript", "React", "Redux", "CSS", "Node", "Express", "PostgreSQL", "Sequelize"
+        ],
+        "github": "https://github.com/AJLM97/PI-Videogames"
+    },
+    {
+        "name": "PFRestaurante",
+        "description": {
+            "en": "Participation in an agile development team with one week sprints presenting to a Product Owner the progress on the development of a complete restaurant app with design and development.\nAll components were developed with CSS using the Tailwind library.\nI excelled on the frontend and backend with the product components (details, comment section, and rating system) and chat (Q&A chat with admins).",
+            "es": "Participación en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un restaurante con diseño y desarrollo.\nTodos los componentes fueron desarrollados con CSS utilizando la librería Tailwind.\nMe destaqué en el frontend y backend con los componentes de productos (details, comments section and score system) y chat (chat Q&A with admins)."
+        },
+        "technologies": [
+            "JavaScript", "React", "Redux", "Node", "Socket.IO", "TailwindCSS", "Express", "PostgreSQL", "Sequelize", "Nodemailer"
+        ],
+        "github": "https://github.com/kiliss/PF"
+    },
+    {
+        "name": "Flappy Bird Clone",
+        "description": {
+            "en": "This project is an excercise in game development and a way to test the ins and outs of Godot Engine.\nSaid game is a copy of Flappy Bird (2010 decade).",
+            "es": "Este proyecto es un ejercicio de desarrollo de juegos y una forma de probar los pros y contras de Godot Engine.\nDicho juego es una copia de Flappy Bird (década de 2010)."
+        },
+        "technologies": [
+            "GDScript", "Godot Engine"
+        ],
+        "github": "https://github.com/AJLM97/flappy-bird-clone"
+    },
+    {
+        "name": "Minesweeper Clone",
+        "description": {
+            "en": "This project is an excercise in game development and a way to test the ins and outs of Godot Engine.\nSaid game is a copy of Minesweeper (1990 decade).",
+            "es": "Este proyecto es un ejercicio de desarrollo de juegos y una forma de probar los pros y contras de Godot Engine.\nDicho juego es una copia de Buscaminas (década de 1990)."
+        },
+        "technologies": [
+            "GDScript", "Godot Engine"
+        ],
+        "github": "https://github.com/AJLM97/minesweeper-clone"
+    },
+    {
+        "name": "Portfolio",
+        "description": {
+            "en": "A project destined to be my personal portfolio.",
+            "es": "Un proyecto destinado a ser mi portafolio personal."
+        },
+        "technologies": [
+            "TypeScript", "NextJS", "TailwindCSS"
+        ],
+        "github": "https://github.com/AJLM97/portfolio"
+    }
+]

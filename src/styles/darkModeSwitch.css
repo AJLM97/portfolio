@@ -1,0 +1,7 @@
+.light .darkmodeswitch {
+    background: linear-gradient(40deg, #ff0080, #ff8c00 70%);
+}
+
+.dark .darkmodeswitch {
+    box-shadow: inset -3px -2px 5px -2px #8983f7, inset -15px -10px 0 0 #a3dafb;
+}

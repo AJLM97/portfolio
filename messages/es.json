@@ -1,0 +1,13 @@
+{
+  "NavBar": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "switchLanguage": "en"
+  },
+  "Home": {
+    "greetings": "Hola, soy Alejandro Ledesma",
+    "aboutMe": "Mi nombre completo es Alejandro Javier Ledesma Miño pero pueden llamarme Ale, soy un desarrollador full stack que le apaciona tipear en su teclado.\nTiempos límites o tecnologias que no conozco son un insentivo más para mi disfrute.",
+    "age": "Años de Edad",
+    "efSet": "Nivel de Inglés"
+  }
+}
