@@ -13,8 +13,8 @@ export default function Home() {
       <div className="group relative lg:row-span-2 col-span-3 lg:col-span-4 cursor-default">
         <div className="w-full h-full rounded-lg bg-white text-gray-700 dark:bg-zinc-900 dark:text-gray-400">
           <div className="flex flex-col justify-center h-full p-8 text-left">
-            <h2 className='text-5xl font-bold pb-4 animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent'>{t("greetings")}</h2>
-            <p className='whitespace-pre-line text-xl'>{t("aboutMe")}</p>
+            <h2 className='text-xl sm:text-5xl font-bold pb-4 animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent'>{t("greetings")}</h2>
+            <p className='whitespace-pre-line text-sm sm:text-xl'>{t("aboutMe")}</p>
           </div>
         </div>
       </div>
